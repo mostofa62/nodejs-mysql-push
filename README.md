@@ -34,4 +34,8 @@ You can read the tutorial on my blog http://www.gianlucaguarini.com/blog/nodejs-
  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  OTHER DEALINGS IN THE SOFTWARE.
- 
+ <h1> how can use it</h1>
+ <p>Clone it,and run in command >node server.js</p>
+<p>Go To browser and type >localhost:8000</p>
+<p>Insert Your Database and See Updates in Browser</p>
+<h4>!!!Enjoy!!!</h4>
