@@ -8,7 +8,7 @@ You can read the tutorial on my blog http://www.gianlucaguarini.com/blog/nodejs-
  
  Version:     0.1.2<br>
  Author:      Gianluca Guarini<br>
- Contact:     gianluca.guarini@gmail.com<br>
+ Contact:     gianluca.guarini@gmail.com,golammostofa31188@gmail.com<br>
  Website:     http://www.gianlucaguarini.com/<br>
  Twitter:     @gianlucaguarini<br>
  
