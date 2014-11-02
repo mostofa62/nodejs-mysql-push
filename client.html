@@ -38,10 +38,8 @@
         socket.on('notification', function (data) {
         var usersList = "<dl>";
         $.each(data.users,function(index,user){
-            usersList += "<dt>" + user.user_name + "</dt>\n" +
-                         "<dd>" + user.user_description + "\n" +
-                            "<figure> <img class='img-polaroid' width='50px' src='" + user.user_img + "' /></figure>"
-                         "</dd>";
+            usersList += "<dt>" + user.id + "</dt>\n" +
+                         "<dd>" + user.name + "\n" +"</dd>";
         });
         usersList += "</dl>";
         $('#container').html(usersList);
